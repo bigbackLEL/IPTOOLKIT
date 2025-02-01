@@ -1,5 +1,5 @@
 @echo off
-title IPTOOLKIT
+title OhhAmp Ip Log
 mode 75, 30
 chcp 65001 >nul
 call powershell exit >nul
